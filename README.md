@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Kanisha-258/DSA-Java/tree/master/0189-rotate-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kanisha-258/DSA-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kanisha-258/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kanisha-258/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Kanisha-258/DSA-Java/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Kanisha-258/DSA-Java/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Kanisha-258/DSA-Java/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kanisha-258/DSA-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kanisha-258/DSA-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Euclidean Algorithm
