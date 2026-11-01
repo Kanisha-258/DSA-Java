@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Kanisha-258/DSA-Java/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Kanisha-258/DSA-Java/tree/master/0189-rotate-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kanisha-258/DSA-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kanisha-258/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kanisha-258/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kanisha-258/DSA-Java/tree/master/0032-longest-valid-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/Kanisha-258/DSA-Java/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kanisha-258/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kanisha-258/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
